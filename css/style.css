@@ -1,0 +1,21 @@
+* {
+  font-family: 'Quicksand', sans-serif;
+}
+body {
+  background-color: whitesmoke;
+}
+
+.tombol {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 10px 17px;
+  background-color: #1664b2;
+  color: #fff;
+  border: none;
+  font-size: 15px;
+}
+
+.tombol:hover {
+  cursor: pointer;
+  background-color: #0f4479;
+}
